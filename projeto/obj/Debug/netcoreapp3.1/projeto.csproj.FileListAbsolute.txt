@@ -1,0 +1,29 @@
+C:\Users\Alisson Peres\source\repos\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.csprojAssemblyReference.cache
+C:\Users\Alisson Peres\source\repos\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.AssemblyInfoInputs.cache
+C:\Users\Alisson Peres\source\repos\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.AssemblyInfo.cs
+C:\Users\PERES\Desktop\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.csprojAssemblyReference.cache
+C:\Users\PERES\Desktop\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.AssemblyInfoInputs.cache
+C:\Users\PERES\Desktop\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.AssemblyInfo.cs
+C:\Users\PERES\Desktop\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.csproj.CoreCompileInputs.cache
+C:\Users\PERES\Desktop\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.exe
+C:\Users\PERES\Desktop\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.deps.json
+C:\Users\PERES\Desktop\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.runtimeconfig.json
+C:\Users\PERES\Desktop\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.runtimeconfig.dev.json
+C:\Users\PERES\Desktop\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.dll
+C:\Users\PERES\Desktop\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.pdb
+C:\Users\PERES\Desktop\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.dll
+C:\Users\PERES\Desktop\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.pdb
+C:\Users\PERES\Desktop\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.genruntimeconfig.cache
+C:\Users\PERES\Desktop\PERES\Desenvolvimento de Software\Algoritmo e Estrutra de Dados\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.exe
+C:\Users\PERES\Desktop\PERES\Desenvolvimento de Software\Algoritmo e Estrutra de Dados\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.deps.json
+C:\Users\PERES\Desktop\PERES\Desenvolvimento de Software\Algoritmo e Estrutra de Dados\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.runtimeconfig.json
+C:\Users\PERES\Desktop\PERES\Desenvolvimento de Software\Algoritmo e Estrutra de Dados\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.runtimeconfig.dev.json
+C:\Users\PERES\Desktop\PERES\Desenvolvimento de Software\Algoritmo e Estrutra de Dados\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.dll
+C:\Users\PERES\Desktop\PERES\Desenvolvimento de Software\Algoritmo e Estrutra de Dados\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.pdb
+C:\Users\PERES\Desktop\PERES\Desenvolvimento de Software\Algoritmo e Estrutra de Dados\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.csprojAssemblyReference.cache
+C:\Users\PERES\Desktop\PERES\Desenvolvimento de Software\Algoritmo e Estrutra de Dados\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.AssemblyInfoInputs.cache
+C:\Users\PERES\Desktop\PERES\Desenvolvimento de Software\Algoritmo e Estrutra de Dados\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.AssemblyInfo.cs
+C:\Users\PERES\Desktop\PERES\Desenvolvimento de Software\Algoritmo e Estrutra de Dados\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.csproj.CoreCompileInputs.cache
+C:\Users\PERES\Desktop\PERES\Desenvolvimento de Software\Algoritmo e Estrutra de Dados\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.dll
+C:\Users\PERES\Desktop\PERES\Desenvolvimento de Software\Algoritmo e Estrutra de Dados\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.pdb
+C:\Users\PERES\Desktop\PERES\Desenvolvimento de Software\Algoritmo e Estrutra de Dados\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.genruntimeconfig.cache

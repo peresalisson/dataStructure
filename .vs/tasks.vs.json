@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-projeto",
+      "appliesTo": "projeto.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-projeto",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-projeto",
+      "appliesTo": "projeto.sln",
+      "type": "launch"
+    }
+  ]
+}
