@@ -1,6 +1,6 @@
 <h1 align=center> Data Structure </h1>
 
-<p align=center>🚀 A desktop application build using C# applying every Data Structure concept</p>
+<p align=center>🚀 A desktop application built using C# applying every Data Structure concept</p>
 
 <p align=center>
     <a href="#Dicionarios">Dicionarios</a> •
