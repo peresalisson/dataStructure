@@ -1,14 +1,18 @@
-<h1 align=center> Data Structure </h1>
+<h1 align=center> Mini Games </h1>
 
-<p align=center>🚀 A desktop application built using C# applying every Data Structure concept</p>
+<p align=center> A desktop application built using C# applying every Data Structure concept.</p>
+<p align=center> On this project you will find 3 mini games and collections tested .</p>
 
-<p align=center>
-    <a href="#Dicionarios">Dicionarios</a> •
-    <a href="#Filas">Filas</a> •
-    <a href="#Listas">Listas</a> •
-    <a href="#Pilhas">Pilhas</a> •
-</p>
+## Here you'll see:
++ Dictionary 
++ Queue
++ Stacks
++ List
+
+
 
 <h4 align="center"> 
-	🚧  Building... 🚀 Em construção...  🚧
+	Finished... 🚀 
 </h4>
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/83928516/163458633-babb5a4d-f7a4-432a-a0d3-f48c1f4f393c.gif)
